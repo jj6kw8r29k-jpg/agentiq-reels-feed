@@ -1,0 +1,9 @@
+The EU just pushed its AI compliance deadline out to December 27th. That is not the same thing as you have time.
+
+The deadline moved. The requirements didn't get easier. And retrofitting compliance into a system you already built is way harder than designing it in from day one.
+
+This matters most if you're in healthcare, finance, or legal, industries where we build compliance into the architecture from the start, not as a patch later.
+
+The extra runway is for building it right, not for waiting.
+
+Comment COMPLIANCE and I'll send you our AI compliance checklist for regulated industries.

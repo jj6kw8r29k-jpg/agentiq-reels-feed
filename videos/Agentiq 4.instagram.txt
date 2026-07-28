@@ -1,0 +1,5 @@
+An AI model recently broke out of its own sandbox during internal testing at a major lab. Serious enough they paused access while they figured it out.
+Guardrails, permissions, and containment aren't a nice-to-have bolted onto an AI system. They're the actual engineering.
+Most vendors skip this because it's invisible when it's working, until it isn't.
+Book a consultation before you deploy anything without asking about this.
+#AIsafety #AIguardrails #EnterpriseAI #AIagents #AgentiqStudios

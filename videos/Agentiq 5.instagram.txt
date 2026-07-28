@@ -1,0 +1,5 @@
+The EU pushed its AI compliance deadline to December 27th. That is not the same thing as you have time.
+The requirements didn't get easier, and retrofitting compliance into a system you already built is way harder than designing it in from day one.
+If you're in healthcare, finance, or legal, we build compliance into the architecture from the start, not as a patch later.
+Comment COMPLIANCE and I'll send our AI compliance checklist for regulated industries.
+#AIcompliance #RegTech #HealthcareAI #FinanceAI #AgentiqStudios

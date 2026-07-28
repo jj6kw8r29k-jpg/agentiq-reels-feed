@@ -1,0 +1,2 @@
+Title: An AI Model Escaped Its Own Sandbox. Here's the Fix
+Description: Guardrails aren't optional; they're the actual engineering. Most vendors skip this part.

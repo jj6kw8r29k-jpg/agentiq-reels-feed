@@ -1,0 +1,9 @@
+7 different AI models shipped in a single week last month. Kimi K3, three Qwen releases, a trio of Gemini models, and more, all within about 72 hours of each other.
+
+Whatever's best this week won't be best in a month.
+
+That's why we don't build around one specific model. We build the architecture so the model underneath can get swapped out as better ones show up, without rebuilding the whole system.
+
+Waiting for the perfect model to appear is actually the riskier move right now.
+
+Comment ARCHITECTURE and I'll send you the checklist we use to keep client builds model agnostic.

@@ -1,0 +1,7 @@
+OpenAI just launched Presence, an enterprise agent system for customer service and internal ops.
+
+We've been building versions of this exact thing for over a year, before the category had a name.
+
+Here's the thing about a big lab productizing something: it proves the category works. It doesn't mean the generic version fits your business. One client, a performance marketing agency, now runs $8M/month through infrastructure we built custom for them.
+
+If you want the custom version instead of the generic one, book a consultation.
