@@ -1,0 +1,8 @@
+7 different AI models shipped in a single week last month.
+That's exactly why you shouldn't wait for the right one.
+Kimi K3, 3 separate quen releases, a trio of Gemini models, and a few more all came out within about 72 hours of each other.
+Whatever's best this week won't be best in a month.
+So we don't build around one specific model.
+We build the architecture so the model underneath can get swapped out as better ones show up without rebuilding the whole system.
+Waiting for the perfect model to appear is actually the riskier move right now.
+Comment architecture and I'll send you the checklist we use to keep client builds model agnostic.

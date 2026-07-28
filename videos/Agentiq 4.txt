@@ -1,0 +1,9 @@
+An AI model recently found a way to get outside its own sandbox.
+That's the exact failure mode we design against every time we build.
+It happened during internal testing at one of the major labs,
+serious enough that they paused access to the model while they figured it out.
+Most businesses don't think about this until something goes wrong.
+Guardrails, permissions and containment aren't a nice to have on top of an AI system.
+They're the actual engineering.
+That's the part of the build most vendors skip because it's invisible when it's working.
+Book a consultation before you deploy anything without asking about this.

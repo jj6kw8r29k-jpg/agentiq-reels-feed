@@ -1,0 +1,9 @@
+OpenAI just launched a product for something we've been building custom for over a year.
+It's called Presence, an enterprise agent system for customer service and internal operations.
+Big Lab, big launch, brand new category with a name now.
+We've been building versions of this exact thing for clients since before it had a name.
+It's part of what we did for a performance marketing agency that now runs
+$8 million a month through infrastructure we built.
+When the platform start productizing something, that just means the categories proven.
+It doesn't mean the generic version fits your business.
+Book a consultation if you want the custom version, not the generic one.
