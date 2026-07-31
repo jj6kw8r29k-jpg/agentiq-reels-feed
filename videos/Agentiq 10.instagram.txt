@@ -1,0 +1,5 @@
+Google just got ordered to open Android up. Forced, not chosen.
+That's the exact direction the whole industry is being pushed in: away from one AI assistant locked into two billion phones.
+We've been building client systems this way since day one, never stuck on one vendor.
+The industry is just catching up to what should've been the default.
+#AIvendorlockin #EnterpriseAI #AIstrategy #AIagents #AgentiqStudios
