@@ -1,0 +1,2 @@
+Title: Google Was Forced to Open Android Up. We Already Do.
+Description: Vendor lock-in is getting regulated out of AI. Here's why we never built our client systems that way.
