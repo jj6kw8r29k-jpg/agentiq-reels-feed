@@ -1,0 +1,5 @@
+Google just got ordered to open Android up.
+That's the exact direction the whole industry is being pushed.
+One AI assistant locked into two billion phones, that's the kind of lock-in regulators are now unwinding.
+We've been building client systems this way from the start, so you're never stuck on one vendor.
+The industry is catching up to what should've been the default.
