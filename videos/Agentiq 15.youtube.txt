@@ -1,0 +1,2 @@
+Title: Data Security and AI Accuracy Aren't Dealbreakers
+Description: Both are architecture decisions, not permanent blockers. Comment for our vetting checklist.

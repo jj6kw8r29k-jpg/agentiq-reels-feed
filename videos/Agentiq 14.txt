@@ -1,0 +1,8 @@
+The largest open-weight AI model ever released just came out and you can run it entirely on your
+own infrastructure. It's a massive model, trillions of parameters and unlike the big paid APIs,
+you can self-host the whole thing instead of sending your data to someone else's servers.
+For businesses handling sensitive data, that's a real option now, not just a theoretical one.
+You get frontier-level capability without your data ever leaving your own systems.
+Most companies don't even know self-hosting is realistic at this level yet.
+Comment hosting and I'll send you our comparison of self-hosted versus API costs for a real business
+use case.

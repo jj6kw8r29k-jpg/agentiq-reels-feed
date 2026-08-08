@@ -1,0 +1,5 @@
+A company just raised $120M to build AI agents for law firms. We've been building that exact category for legal clients already.
+It's Norm AI, backed by Khosla Ventures, valued at $1.2B, building agents that draft documents and handle compliance under attorney supervision.
+That's not a coincidence. That's a signal: regulated industries are exactly where custom, carefully governed AI agents make the most sense. Not generic chatbots.
+Comment LEGAL and I'll send you the framework we use for agent builds in regulated industries.
+#LegalTech #AIagents #RegTech #EnterpriseAI #AgentiqStudios

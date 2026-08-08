@@ -1,0 +1,9 @@
+The two biggest reasons small businesses won't go further with AI: data security and not trusting its accuracy. About a third of small businesses cite each one as a barrier, and honestly, they're right to be cautious. Generic AI tools do have both problems.
+
+But both are solvable, not permanent blockers.
+
+Data security gets solved by controlling where your data actually lives instead of handing it to a public model. Accuracy gets solved by grounding the AI in your own documents and systems instead of letting it guess.
+
+Both of those are just architecture decisions, not unsolvable problems.
+
+Comment SECURITY and I'll send you the checklist we use to vet AI setups for exactly these two issues.
